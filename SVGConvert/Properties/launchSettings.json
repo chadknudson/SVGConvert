@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SVGConvert": {
+      "commandName": "Project",
+      "commandLineArgs": "--format PNG --source \"C:\\Temp\\SVGConvert\\MICA - App.svg\" --target \"C:\\Temp\\SVGConvert\\MICABadge800x800.png\" --width 800 --height 800 --verbose"
+    }
+  }
+}
